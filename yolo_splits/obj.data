@@ -1,0 +1,5 @@
+classes = 10
+train = yolo_splits/train.txt
+valid = yolo_splits/val.txt
+names = yolo_splits/obj.names
+backup = backup/
